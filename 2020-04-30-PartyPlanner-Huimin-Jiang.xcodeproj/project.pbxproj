@@ -13,6 +13,7 @@
 		0137B30C2452698D00133F5B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0137B30A2452698D00133F5B /* Main.storyboard */; };
 		0137B30E2452698F00133F5B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0137B30D2452698F00133F5B /* Assets.xcassets */; };
 		0137B3112452698F00133F5B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0137B30F2452698F00133F5B /* LaunchScreen.storyboard */; };
+		0137B3192452736300133F5B /* ItemDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0137B3182452736300133F5B /* ItemDetailTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0137B30D2452698F00133F5B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0137B3102452698F00133F5B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0137B3122452698F00133F5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0137B3182452736300133F5B /* ItemDetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetailTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				0137B3042452698D00133F5B /* AppDelegate.swift */,
 				0137B3062452698D00133F5B /* SceneDelegate.swift */,
 				0137B3082452698D00133F5B /* ViewController.swift */,
+				0137B3182452736300133F5B /* ItemDetailTableViewController.swift */,
 				0137B30A2452698D00133F5B /* Main.storyboard */,
 				0137B30D2452698F00133F5B /* Assets.xcassets */,
 				0137B30F2452698F00133F5B /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				0137B3092452698D00133F5B /* ViewController.swift in Sources */,
 				0137B3052452698D00133F5B /* AppDelegate.swift in Sources */,
 				0137B3072452698D00133F5B /* SceneDelegate.swift in Sources */,
+				0137B3192452736300133F5B /* ItemDetailTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
